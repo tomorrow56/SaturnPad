@@ -1,0 +1,37 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+buttons	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+SaturnPad	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SEGA_Z  LITERAL1
+SEGA_Y  LITERAL1
+SEGA_X  LITERAL1
+SEGA_R0 LITERAL1
+SEGA_B  LITERAL1
+SEGA_C  LITERAL1
+SEGA_A  LITERAL1
+SEGA_St LITERAL1
+SEGA_U  LITERAL1
+SEGA_D  LITERAL1
+SEGA_L  LITERAL1
+SEGA_R  LITERAL1
+SEGA_L0 LITERAL1
