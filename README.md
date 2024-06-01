@@ -9,7 +9,7 @@ https://kaele.com/~kashima/games/saturn.html
 
 
 ### Wire Connetion Information
-|Sturn-con|Sig|Wire|PCB con|
+|Saturn-con|Sig|Wire|PCB con|
 |---------|---|------|--------|
 |1|VCC|blue|4|
 |2|D1|green|3|
